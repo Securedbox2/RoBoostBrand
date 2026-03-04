@@ -1,0 +1,97 @@
+ROBOOST PRIVACY POLICY
+======================
+Last Updated: March 4, 2026
+
+This Privacy Policy explains how RoBoost ("we", "our", or "us") collects,
+uses, and protects your information when you use the RoBoost Chrome Extension.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. DATA COLLECTION & USAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+We collect the following information when you use RoBoost:
+
+  - Roblox Username & User ID
+    Used to identify your account and process boost orders.
+
+  - Session Token
+    Used to authenticate your requests to the RoBoost backend.
+    This is stored locally in your browser and never shared
+    with third parties.
+
+  - Coin Balance & Transaction History
+    Used to track your purchases and boost orders within
+    the extension.
+
+  - Referral Code Usage
+    Used to track referrals and award coins to both parties.
+
+We do NOT collect:
+  - Your Roblox password
+  - Your payment information (purchases are handled via
+    Roblox's own gamepass system)
+  - Any personally identifiable information beyond your
+    Roblox account details
+
+Your data is used solely to provide and improve the RoBoost
+service. We do not sell, rent, or share your data with any
+third parties for marketing purposes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. THIRD-PARTY SERVICES (ROBLOX API)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RoBoost interacts with the following third-party services:
+
+  Roblox API (roblox.com)
+  -----------------------
+  We use Roblox's public API to:
+    - Look up Roblox usernames and user IDs
+    - Fetch user avatar thumbnails for display purposes
+    - Process gamepass purchases for coin packages
+
+  RoBoost is not affiliated with, endorsed by, or officially
+  connected to Roblox Corporation in any way. Use of the
+  Roblox API is subject to Roblox's own Terms of Service and
+  Privacy Policy, which can be found at:
+  https://www.roblox.com/info/privacy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. DATA STORAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Your session token and balance are stored locally in your
+browser using Chrome's local storage API. This data remains
+on your device and is only transmitted to the RoBoost backend
+when making authenticated requests.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. DATA RETENTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+We retain your account data for as long as your RoBoost
+account is active. If you wish to have your data deleted,
+please contact us via our Discord server and we will process
+your request within 30 days.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. CHANGES TO THIS POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+We may update this Privacy Policy from time to time. Any
+changes will be announced via our Discord server. Continued
+use of RoBoost after changes are posted constitutes your
+acceptance of the updated policy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. CONTACT US
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you have any questions or concerns about this Privacy
+Policy, please reach out to us on our Discord server:
+
+  https://discord.gg/7y2pY2jf
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© 2026 RoBoost. All rights reserved.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
